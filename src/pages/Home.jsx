@@ -1,4 +1,5 @@
 import React from "react";
+import MernStackTooltip from "../components/design/MernStackTooltip";
 
 function Home() {
   return (
@@ -8,16 +9,14 @@ function Home() {
         {"<"}Noor ul Islam Huzaifa{"/>"}
       </h2>
       <h2 className='text-4xl w-fit font-bold py-3 text-gray-300'>
-        I build web projects
+        and I build web projects
       </h2>
       <p className='text-lg font-light  w-3/4'>
         I'm an Innovative and Task-Driven Developer from{" "}
         <span className='hover:text-gray-200 transition duration-300 cursor-pointer text-green-600 font-semibold text-lg'>
-          Pakistan
+          Pakistan.
         </span>{" "}
-        focusing on frontend development. I code in React to build projects
-        which solve real world problems. I'm looking for new oppurtunities to
-        make myself useful in this glorious space.
+        My development stack of choice is the <MernStackTooltip />
       </p>
     </section>
   );
