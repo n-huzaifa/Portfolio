@@ -4,15 +4,13 @@ import About from "./pages/About";
 import Projects from "./pages/Projects";
 import Skills from "./pages/Skills";
 import Contact from "./pages/Contact";
-import BgParticles from "./components/design/BgParticles";
-import Navbar from "./components/navbar";
+import Particles from "./components/design/Particles";
 
 function App() {
   return (
     <>
-      <Navbar />
-      <div className='h-screen w-full flex flex-col px-96 bg-transparent'>
-        <BgParticles />
+      <div className='h-screen w-full flex flex-col px-96 bg-transparent scrollbar-thin overflow-y-scroll scrollbar-thumb-ghost scrollbar-track-base'>
+        <Particles />
         <div className='h-full'>
           <Home />
           <About />
