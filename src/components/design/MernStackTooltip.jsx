@@ -3,7 +3,7 @@ import React from "react";
 function MernStackTooltip() {
   return (
     <>
-      <span className='cursor-pointer  font-semibold'>
+      <span className='cursor-pointer font-bold'>
         <span
           className='hover:text-green-400 tooltip transition duration-200'
           data-tip='MongoDB'>

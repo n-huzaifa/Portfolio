@@ -24,9 +24,23 @@ const tsparticlesConfig = {
     enable: true,
     zIndex: -1,
   },
+  interactivity: {
+    events: {
+      onHover: {
+        enable: true,
+        mode: "repulse",
+      },
+      resize: true,
+    },
+    modes: {
+      repulse: {
+        distance: 100,
+      },
+    },
+  },
   particles: {
     number: {
-      value: 40,
+      value: 50,
     },
     color: {
       value: "#fff",
