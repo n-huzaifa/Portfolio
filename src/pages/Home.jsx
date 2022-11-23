@@ -1,5 +1,4 @@
 import React from "react";
-import Button from "../components/Button";
 import MernStackTooltip from "../components/design/MernStackTooltip";
 
 function Home() {
@@ -20,8 +19,18 @@ function Home() {
         My development stack of choice is the <MernStackTooltip />
       </p>
       <div className='space-x-5'>
-        <Button text='Contact' link='/#contact' styles='mt-10' />
-        <Button text='Resume' link='resume' styles='mt-10' />
+        <a href='#contact'>
+          <button
+            href='#contact'
+            className='btn btn-outline hover:bg-gradient-to-r hover:text-white hover:border-transparent from-purple-400 to-pink-400 mt-10'>
+            Contact
+          </button>
+        </a>
+        <a href='/resume.pdf' target='_blank'>
+          <button className='btn btn-outline hover:bg-gradient-to-r hover:text-white hover:border-transparent from-purple-400 to-pink-400 mt-10'>
+            Resume
+          </button>
+        </a>
       </div>
     </section>
   );
