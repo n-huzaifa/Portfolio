@@ -47,7 +47,7 @@ const tsparticlesConfig = {
     },
     line_linked: {
       enable: true,
-      distance: 250,
+      distance: 150,
       color: "#ffffff",
       opacity: 0.3,
       width: 1,

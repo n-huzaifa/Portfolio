@@ -3,7 +3,9 @@ import MernStackTooltip from "../components/design/MernStackTooltip";
 
 function Home() {
   return (
-    <section id='home' className='mt-48 font-poppins space-y-2 text-ghost'>
+    <section
+      id='home'
+      className='mt-48 -mb-48 px-96 h-screen font-poppins space-y-2 text-ghost'>
       <span className='font-semibold text-lg'>Hey - I'm</span>
       <h2 className='text-5xl w-fit font-bold py-3 bg-gray-800 text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400 '>
         {"<"}Noor ul Islam Huzaifa{"/>"}
@@ -20,9 +22,7 @@ function Home() {
       </p>
       <div className='space-x-5'>
         <a href='#contact'>
-          <button
-            href='#contact'
-            className='btn btn-outline hover:bg-gradient-to-r hover:text-white hover:border-transparent from-purple-400 to-pink-400 mt-10'>
+          <button className='btn btn-outline hover:bg-gradient-to-r hover:text-white hover:border-transparent from-purple-400 to-pink-400 mt-10'>
             Contact
           </button>
         </a>
