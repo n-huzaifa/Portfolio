@@ -8,9 +8,9 @@ import Particles from "./components/design/Particles";
 function App() {
   return (
     <>
-      <div className='w-full box-border flex flex-col bg-transparent scrollbar-thin overflow-y-scroll scrollbar-thumb-ghost scrollbar-track-base'>
+      <div className='w-full bg-transparent '>
         <Particles />
-        <div className='h-full'>
+        <div className='h-full box-border'>
           <Home />
           <Projects />
           <Skills />
