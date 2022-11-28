@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Title",
+    "description": "lorem ipsum fsjie ijijfse",
+    "hero": "/images/test.jpg",
+    "repo": "https://github.com/n-huzaifa/Notify-FE",
+    "demo": "https://nhuzaifa.netlify.app",
+    "tags": ["react.js", "node.js", "tailwind"]
+  },
+  {
+    "title": "Title",
+    "description": "lorem ipsum fsjie ijijfse",
+    "hero": "https://picsum.photos/400/",
+    "repo": "https://github.com/n-huzaifa/Notify-FE",
+    "demo": "https://nhuzaifa.netlify.app",
+    "tags": ["react.js", "node.js", "tailwind"]
+  }
+]
