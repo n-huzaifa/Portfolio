@@ -1,17 +1,38 @@
 [
   {
-    "title": "Title",
-    "description": "lorem ipsum fsjie ijijfse",
-    "hero": "/images/test.jpg",
-    "repo": "https://github.com/n-huzaifa/Notify-FE",
+    "title": "Notify",
+    "description": "An elegant & beautiful notes taking solution to help individuals be more productive.",
+    "hero": "/public/images/notify.jpg",
+    "repo": "https://nhuzaifa.netlify.app",
+    "tags": ["react.js", "node.js", "tailwind"]
+  },
+  {
+    "title": "JJester",
+    "description": "A fun jokes website made using the infamous JokesAPI.",
+    "hero": "/public/images/jjester.jpg",
     "demo": "https://nhuzaifa.netlify.app",
     "tags": ["react.js", "node.js", "tailwind"]
   },
   {
-    "title": "Title",
-    "description": "lorem ipsum fsjie ijijfse",
-    "hero": "https://picsum.photos/400/",
-    "repo": "https://github.com/n-huzaifa/Notify-FE",
+    "title": "Socialize",
+    "description": "A real time chatting web app to communicate with friends.",
+    "hero": "/public/images/socialize.jpg",
+    "repo": "https://nhuzaifa.netlify.app",
+    "demo": "https://nhuzaifa.netlify.app",
+    "tags": ["react.js", "node.js", "tailwind"]
+  },
+  {
+    "title": "test",
+    "description": "A random test data just to run tests for the app.",
+    "hero": "/public/images/test.jpg",
+    "repo": "https://nhuzaifa.netlify.app",
+    "tags": ["react.js", "node.js", "tailwind"]
+  },
+  {
+    "title": "Portfolio",
+    "description": "My personal portfolio is an amazing project which showcases my work and tells more about myself and my worklife.",
+    "hero": "/public/images/portfolio.jpg",
+    "repo": "https://nhuzaifa.netlify.app",
     "demo": "https://nhuzaifa.netlify.app",
     "tags": ["react.js", "node.js", "tailwind"]
   }
