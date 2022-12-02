@@ -9,11 +9,12 @@ function ProjectCard({ data }) {
       flex flex-col justify-end relative 
       h-[350px] w-[350px] min-w-[250px] 
       space-y-2 p-3 rounded-2xl shadow-[-1rem_0_3rem_#000] 
-      bg-[url("${data.hero}")] bg-no-repeat bg-cover
+      bg-no-repeat bg-cover
       hover:translate-y-[-1rem] 
       peer peer-hover:translate-x-[130px]
       [&:not(first-child)]:ml-[-130px] 
-      transition duration-300`}>
+      transition duration-300`}
+      style={{ backgroundImage: `url(${data.hero})` }}>
       <div className='flex space-x-2'>
         {data.repo && (
           <a href={data.repo} className='text-4xl text-[#1c1c1c]'>
