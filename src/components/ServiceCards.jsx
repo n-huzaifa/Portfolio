@@ -14,8 +14,8 @@ function ServiceCards() {
           dolorum, beatae totam assumenda
         </p>
         <h4 className='py-4 text-teal-600'>Design Tools I use</h4>
-        <p className='text-gray-800 py-1'>Illustrator</p>
-        <p className='text-gray-800 py-1'>Adobe XD</p>
+        <p className='text-gray-800 dark:text-[#EEEEEE] py-1'>Illustrator</p>
+        <p className='text-gray-800 dark:text-[#EEEEEE] py-1'>Adobe XD</p>
       </div>
       <div className='text-center shadow-xl p-10 rounded-xl my-10'>
         <img
@@ -31,8 +31,8 @@ function ServiceCards() {
           dolorum, beatae totam assumenda
         </p>
         <h4 className='py-4 text-teal-600'>Design Tools I use</h4>
-        <p className='text-gray-800 py-1'>Illustrator</p>
-        <p className='text-gray-800 py-1'>Adobe XD</p>
+        <p className='text-gray-800 dark:text-[#EEEEEE] py-1'>Illustrator</p>
+        <p className='text-gray-800 dark:text-[#EEEEEE] py-1'>Adobe XD</p>
       </div>
       <div className='text-center shadow-xl p-10 rounded-xl my-10'>
         <img src={code} alt='' className='mx-auto' width={100} height={100} />
@@ -42,8 +42,8 @@ function ServiceCards() {
           dolorum, beatae totam assumenda
         </p>
         <h4 className='py-4 text-teal-600'>Design Tools I use</h4>
-        <p className='text-gray-800 py-1'>Photoshop</p>
-        <p className='text-gray-800 py-1'>Figma</p>
+        <p className='text-gray-800 dark:text-[#EEEEEE] py-1'>Photoshop</p>
+        <p className='text-gray-800 dark:text-[#EEEEEE] py-1'>Figma</p>
       </div>
     </div>
   );

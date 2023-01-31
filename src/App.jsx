@@ -9,7 +9,7 @@ function App() {
   const [darkMode, setDarkMode] = useState(false);
   return (
     <div className={`${darkMode ? "dark" : ""}`}>
-      <div className='bg-[#E3FDFD] dark:bg-gray-800 dark:text-white px-10 md:px-20 lg:px-40'>
+      <div className='bg-[#E3FDFD] dark:bg-[#222831] dark:text-[#EEEEEE] px-10 md:px-20 lg:px-40'>
         <Navbar darkModeToggle={setDarkMode} darkModeState={darkMode} />
         <Hero />
         <Services />

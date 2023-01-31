@@ -17,7 +17,7 @@ function Hero() {
           Noor ul Islam Huzaifa
         </h2>
         <h3 className='text-2xl py-2 md:text-3xl'>Developer and designer</h3>
-        <p className='text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto'>
+        <p className='text-md py-5 leading-8 text-gray-800 dark:text-[#EEEEEE] md:text-xl max-w-xl mx-auto'>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae placeat
           ducimus explicabo exercitationem laborum beatae a, non minus sit
         </p>
