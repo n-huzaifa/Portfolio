@@ -15,7 +15,7 @@ function Navbar({ darkModeToggle, darkModeState }) {
         <li>
           <a
             href='/resume.pdf'
-            className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8 font-medium'
+            className='bg-gradient-to-r from-cyan-500 to-teal-500 px-4 py-3 rounded-md ml-8 font-medium'
             target='_blank'>
             Resume
           </a>

@@ -22,11 +22,6 @@ function Hero() {
           ducimus explicabo exercitationem laborum beatae a, non minus sit
         </p>
       </div>
-      <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
-        <AiFillLinkedin />
-        <AiFillTwitterCircle />
-        <AiFillYoutube />
-      </div>
     </div>
   );
 }
