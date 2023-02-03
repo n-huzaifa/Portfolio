@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "/Cliffs.png";
+import Logo from "/Cliffs.webp";
 
 function Hero() {
   return (

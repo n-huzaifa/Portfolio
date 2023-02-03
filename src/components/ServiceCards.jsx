@@ -1,7 +1,7 @@
 import React from "react";
-import design from "/design.png";
-import code from "/code.png";
-import consulting from "/consulting.png";
+import design from "/design.webp";
+import code from "/code.webp";
+import consulting from "/consulting.webp";
 
 function ServiceCards() {
   return (
