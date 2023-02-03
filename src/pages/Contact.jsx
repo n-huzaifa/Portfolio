@@ -25,7 +25,7 @@ function Contact() {
         </div>
       </div>
 
-      <div className='text-center text-gray-500 p-4 '>
+      <div className='text-center text-gray-500 dark:text-[#EEEEEE] p-4 '>
         Made with ❤️ using React + Tailwind
       </div>
     </footer>

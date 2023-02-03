@@ -1,24 +1,26 @@
-import React, { useState, useEffect } from "react";
 import Hero from "./pages/Hero";
-import Services from "./pages/Services";
-import Portfolio from "./pages/Portfolio";
-import Navbar from "./components/Navbar";
 import Contact from "./pages/Contact";
+import Services from "./pages/Services";
+import Navbar from "./components/Navbar";
+import Portfolio from "./pages/Portfolio";
+import React, { useState, useEffect } from "react";
 
 function App() {
-  const [darkMode, setDarkMode] = useState(false);
+  const [darkMode, setDarkMode] = useState(true);
 
   useEffect(() => {
-    setDarkMode(JSON.parse(window.localStorage.getItem("theme")));
+    setDarkMode(JSON.parse(window.localStorage.getItem("darkMode")));
   }, []);
 
   useEffect(() => {
-    window.localStorage.setItem("theme", darkMode);
+    window.localStorage.setItem("darkMode", darkMode);
   }, [darkMode]);
 
   return (
     <div className={`${darkMode ? "dark" : ""}`}>
-      <div className='bg-[#E3FDFD] dark:bg-[#222831] dark:text-[#EEEEEE] px-10 md:px-20 lg:px-40 font-poppins'>
+      <div
+        className='bg-[#E3FDFD]  px-10 md:px-20 lg:px-40 font-poppins
+        dark:bg-gradient-to-tr dark:from-teal-900 dark:to-[#222831] dark:text-[#EEEEEE]'>
         <Navbar darkModeToggle={setDarkMode} darkModeState={darkMode} />
         <Hero />
         <Services />
