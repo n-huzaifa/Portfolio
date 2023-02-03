@@ -4,7 +4,7 @@ import { BsFillMoonStarsFill } from "react-icons/bs";
 function Navbar({ darkModeToggle, darkModeState }) {
   return (
     <div className='py-5 flex justify-between'>
-      <h1 className='text-xl font-burtons'>nHuzaifa</h1>
+      <h1 className='text-xl'>nHuzaifa</h1>
       <ul className='flex items-center'>
         <li>
           <BsFillMoonStarsFill
