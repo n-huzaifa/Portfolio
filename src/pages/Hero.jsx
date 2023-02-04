@@ -1,10 +1,11 @@
 import React from "react";
 import Logo from "/Cliffs.webp";
+import { LazyLoadImage } from "react-lazy-load-image-component";
 
 function Hero() {
   return (
     <div className='min-h-screen '>
-      <img
+      <LazyLoadImage
         src={Logo}
         alt=''
         className='relative flex flex-col justify-center mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-16 overflow-hidden md:w-96 md:h-96'
