@@ -8,7 +8,7 @@ function SkillCards({ url }) {
       className={`left-32 ml-2 mr-4 
       flex flex-col justify-end relative 
       h-[350px] w-[350px] min-w-[250px] 
-      space-y-2 p-3 rounded-2xl shadow-lg shadow-gray-400 dark:shadow-gray-800
+      space-y-2 p-3 rounded-2xl dark:shadow-lg dark:shadow-gray-800
       bg-no-repeat bg-cover
       hover:translate-y-[-1rem] 
       peer peer-hover:translate-x-[130px]
