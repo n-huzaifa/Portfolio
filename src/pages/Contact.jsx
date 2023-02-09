@@ -4,7 +4,9 @@ import { SiGmail } from "react-icons/si";
 
 function Contact() {
   return (
-    <footer className='text-center text-gray-800 dark:text-[#EEEEEE]'>
+    <footer
+      id='contact'
+      className='text-center text-gray-800 dark:text-[#EEEEEE]'>
       <div className='container pt-9'>
         <div className='flex justify-center mb-9'>
           <a href='mailto:contact.noorhuzaifa@gmail.com' className='mr-9 '>

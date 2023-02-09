@@ -6,6 +6,7 @@ function Hero() {
   return (
     <>
       <div
+        id='hero'
         className='relative flex flex-col justify-center mx-auto 
       bg-gradient-to-b from-teal-500 rounded-full
       w-56 h-56 mt-14 overflow-hidden md:w-96 md:h-96'>
