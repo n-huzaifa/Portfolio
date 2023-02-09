@@ -17,10 +17,12 @@ function SkillCards({ url }) {
       style={{
         backgroundImage: `url(${url})`,
       }}>
-      <div className='bg-base rounded-xl p-2 h-32 overflow-hidden flex flex-col justify-between'>
+      <div className='bg-base rounded-xl p-2 h-32 text-gray-100 overflow-hidden flex flex-col justify-end'>
         <div>
           <h2 className='font-semibold text-xl text-ellipsis'>Skill Name</h2>
-          <p className='text-xs text-ellipsis'>Skill Description</p>
+          <p className='text-xs text-ellipsis'>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius vitae,
+          </p>
         </div>
       </div>
     </div>

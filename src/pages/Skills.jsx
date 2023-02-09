@@ -12,7 +12,7 @@ function Skills() {
         <span className='text-teal-500'>suscipit</span> animi enim culpa dicta
         nihil, dolorem esse quisquam sequi? Tempore quae hic voluptas.
       </p>
-      <div className='flex py-5 w-full mr-10 overflow-y-hidden mb-20 text-gray-900'>
+      <div className='flex py-5 w-full mr-10 overflow-y-hidden mb-10 text-gray-900'>
         <SkillCards url='https://res.cloudinary.com/practicaldev/image/fetch/s--qo_Wp38Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/e0nl7ziy1la7bpwj7rsp.png' />
         <SkillCards url='https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg' />
         <SkillCards url='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' />
