@@ -9,12 +9,12 @@ function App() {
   const [darkMode, setDarkMode] = useState(true);
 
   useEffect(() => {
-    setDarkMode(JSON.parse(window.localStorage.getItem("darkMode")));
-  }, []);
-
-  useEffect(() => {
     window.localStorage.setItem("darkMode", darkMode);
   }, [darkMode]);
+
+  useEffect(() => {
+    setDarkMode(JSON.parse(window.localStorage.getItem("darkMode")));
+  }, []);
 
   return (
     <div className={`${darkMode ? "dark" : ""}`}>
