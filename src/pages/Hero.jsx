@@ -5,7 +5,10 @@ import { LazyLoadImage } from "react-lazy-load-image-component";
 function Hero() {
   return (
     <>
-      <div className='relative flex flex-col justify-center mx-auto bg-gradient-to-b from-teal-500 rounded-full w-56 h-56 mt-14 overflow-hidden md:w-96 md:h-96'>
+      <div
+        className='relative flex flex-col justify-center mx-auto 
+      bg-gradient-to-b from-teal-500 rounded-full
+      w-56 h-56 mt-14 overflow-hidden md:w-96 md:h-96'>
         <LazyLoadImage src={Logo} alt='' className='absolute top-5' />
       </div>
       <div className='text-center p-6 '>

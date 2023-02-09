@@ -3,7 +3,7 @@ import SkillCards from "../components/SkillCards";
 
 function Skills() {
   return (
-    <div>
+    <div className='md:text-lg'>
       <h3 className='text-3xl py-1'>Skills</h3>
       <p className='text-md py-5 leading-8 text-gray-800 dark:text-[#EEEEEE]'>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit.
