@@ -19,7 +19,7 @@ function App() {
   return (
     <div className={`${darkMode ? "dark" : ""}`}>
       <div
-        className='bg-[#E3FDFD]  px-10 md:px-20 lg:px-40 font-poppins
+        className='bg-[#E3FDFD]  px-5 md:px-20 lg:px-40 font-poppins
         dark:bg-gradient-to-tr dark:from-teal-900 dark:to-[#222831] dark:text-[#EEEEEE]
         '>
         <Navbar darkModeToggle={setDarkMode} darkModeState={darkMode} />

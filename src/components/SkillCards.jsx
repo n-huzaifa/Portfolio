@@ -5,7 +5,7 @@ import { IoLink } from "react-icons/io5";
 function SkillCards({ url }) {
   return (
     <div
-      className={`left-32 ml-4 mr-10
+      className={`left-32 ml-2 mr-4 
       flex flex-col justify-end relative 
       h-[350px] w-[350px] min-w-[250px] 
       space-y-2 p-3 rounded-2xl shadow-lg shadow-gray-800
