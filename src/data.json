@@ -1,0 +1,59 @@
+{
+  "skills": [
+    {
+      "name": "Express JS",
+      "desc": "a set of tools for building robust and scalable web applications.",
+      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+    },
+    {
+      "name": "MongoDB",
+      "desc": "document-oriented database program that provides high scalability and performance for web apps",
+      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+    },
+    {
+      "name": "Node JS",
+      "desc": "JavaScript runtime environment for executing JavaScript code on the server-side",
+      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+    },
+    {
+      "name": "React JS",
+      "desc": "JavaScript library for building user interfaces, often used for developing SPAs",
+      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+    },
+    {
+      "name": "Bootstrap",
+      "desc": "CSS framework for designing responsive, mobile-first websites",
+      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+    },
+    {
+      "name": "MySQL",
+      "desc": "relational database management system (RDBMS) used for managing data",
+      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+    },
+    {
+      "name": "Javascript",
+      "desc": "language used for creating dynamic and interactive web pages",
+      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+    },
+    {
+      "name": "HTML/CSS",
+      "desc": "Structure and styling of the web pages",
+      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+    },
+    {
+      "name": "Tailwindcss",
+      "desc": "CSS framework for building fast and responsive websites and web applications.",
+      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+    },
+    {
+      "name": "MUI",
+      "desc": "library that provides a wide range of pre-built UI component",
+      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+    },
+    {
+      "name": "Chart.js",
+      "desc": "library that provides a way to create charts and graphs",
+      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+    }
+  ]
+}
