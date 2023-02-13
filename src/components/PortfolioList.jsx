@@ -19,35 +19,35 @@ function PortfolioList() {
       </div>
       <div className='basis-1/3 flex-1 '>
         <img
-          src='https://nhuzaifa.netlify.app/web2.webp'
+          src='https://cdn.statically.io/img/nhuzaifa.netlify.app/f=auto,q=50%/web2.webp'
           alt=''
           className='rounded-lg object-cover w-full h-full'
         />
       </div>
       <div className='basis-1/3 flex-1 '>
         <LazyLoadImage
-          src={web3}
+          src='https://cdn.statically.io/img/nhuzaifa.netlify.app/f=auto,q=50%/web3.webp'
           alt=''
           className='rounded-lg object-cover w-full h-full'
         />
       </div>
       <div className='basis-1/3 flex-1 '>
         <LazyLoadImage
-          src={web4}
+          src='https://cdn.statically.io/img/nhuzaifa.netlify.app/f=auto,q=50%/web4.webp'
           alt=''
           className='rounded-lg object-cover w-full h-full'
         />
       </div>
       <div className='basis-1/3 flex-1 '>
         <LazyLoadImage
-          src={web5}
+          src='https://cdn.statically.io/img/nhuzaifa.netlify.app/f=auto,q=50%/web5.webp'
           alt=''
           className='rounded-lg object-cover w-full h-full'
         />
       </div>
       <div className='basis-1/3 flex-1 '>
         <LazyLoadImage
-          src={web6}
+          src='https://cdn.statically.io/img/nhuzaifa.netlify.app/f=auto,q=50%/web6.webp'
           alt=''
           className='rounded-lg object-cover w-full h-full'
         />
