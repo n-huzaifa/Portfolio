@@ -7,15 +7,17 @@ import web5 from "/web5.webp";
 import web6 from "/web6.webp";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 
+import { fill } from "@cloudinary/url-gen/actions/resize";
+import { CloudinaryImage } from "@cloudinary/url-gen";
+
 function PortfolioList() {
+  const myImage = new CloudinaryImage("sample", {
+    cloudName: "dpb89bcny",
+  }).resize(fill().width(100).height(150));
   return (
     <div className='flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap'>
       <div className='basis-1/3 flex-1 '>
-        <img
-          src='https://cdn.statically.io/img/nhuzaifa.netlify.app/f=auto,q=50%/web1.webp'
-          alt=''
-          className='rounded-lg object-cover w-full h-full'
-        />
+        <AdvancedImage cldImg={myImage} />
       </div>
       <div className='basis-1/3 flex-1 '>
         <img
