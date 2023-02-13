@@ -18,7 +18,6 @@ function SkillCards({ skill }) {
       <div className='bg-base rounded-xl p-2 h-32 text-gray-100 overflow-hidden flex flex-col justify-end'>
         <div>
           <h2 className='font-semibold text-xl text-ellipsis'>{skill.name}</h2>
-          {/* <p className='text-xs md:text-sm text-ellipsis'>{skill.desc}</p> */}
         </div>
       </div>
     </div>

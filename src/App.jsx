@@ -1,9 +1,11 @@
 import Hero from "./pages/Hero";
-import Contact from "./pages/Contact";
 import Skills from "./pages/Skills";
-import Navbar from "./components/Navbar";
 import Portfolio from "./pages/Portfolio";
+import Testimonials from "./pages/Testimonials";
+import Contact from "./pages/Contact";
+import Navbar from "./components/Navbar";
 import React, { useState, useEffect } from "react";
+import Footer from "./pages/Footer";
 
 function App() {
   const [darkMode, setDarkMode] = useState(true);
@@ -26,7 +28,9 @@ function App() {
         <Hero />
         <Skills />
         <Portfolio />
+        <Testimonials />
         <Contact />
+        <Footer />
       </div>
     </div>
   );

@@ -55,5 +55,28 @@
       "desc": "library that provides a way to create charts and graphs",
       "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
     }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Paul White",
+      "occupation": "developer",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex dignissimos repellat blanditiis exercitationem",
+      "img": "https://epteck.com/wp-content/uploads/2022/11/turner.png"
+    },
+    {
+      "id": 2,
+      "name": "Muhammad Jibawi",
+      "occupation": "developer",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "img": "https://epteck.com/wp-content/uploads/2022/11/malik.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Noor Huzaifa",
+      "occupation": "developer",
+      "text": " facilis suscipit voluptatibus dolorum reprehenderit beatae atque quo modi, in nobis non sint! Mollitia, sunt error. Quaerat?  facilis suscipit voluptatibus dolorum reprehenderit beatae atque quo modi, in nobis non sint! Mollitia, sunt error. Quaerat?",
+      "img": "https://epteck.com/wp-content/uploads/2022/11/turner.png"
+    }
   ]
 }

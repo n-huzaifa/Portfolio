@@ -4,7 +4,7 @@ import { BsFillMoonStarsFill } from "react-icons/bs";
 function Navbar({ darkModeToggle, darkModeState }) {
   return (
     <div id='navbar' className='py-5 flex justify-between'>
-      <h1 className='text-xl'>nHuzaifa</h1>
+      <h1 className='text-xl cursor-pointer'>Mastrry</h1>
       <ul className='flex items-center'>
         <li>
           <BsFillMoonStarsFill
@@ -15,7 +15,7 @@ function Navbar({ darkModeToggle, darkModeState }) {
         <li>
           <a
             href='/resume.pdf'
-            className='bg-gradient-to-r from-cyan-500 to-teal-500 px-4 py-3 rounded-md ml-8 font-medium'
+            className='bg-gradient-to-r from-cyan-500 to-teal-500 dark:from-cyan-600 dark:to-teal-600 px-4 py-3 rounded-md ml-8 font-medium'
             target='_blank'>
             Resume
           </a>
