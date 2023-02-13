@@ -11,15 +11,15 @@ function PortfolioList() {
   return (
     <div className='flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap'>
       <div className='basis-1/3 flex-1 '>
-        <LazyLoadImage
-          src={web1}
+        <img
+          src='https://cdn.statically.io/img/nhuzaifa.netlify.app/f=auto,q=50%/web1.webp'
           alt=''
           className='rounded-lg object-cover w-full h-full'
         />
       </div>
       <div className='basis-1/3 flex-1 '>
-        <LazyLoadImage
-          src={web2}
+        <img
+          src='https://nhuzaifa.netlify.app/web2.webp'
           alt=''
           className='rounded-lg object-cover w-full h-full'
         />
