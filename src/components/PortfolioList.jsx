@@ -17,7 +17,11 @@ function PortfolioList() {
   return (
     <div className='flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap'>
       <div className='basis-1/3 flex-1 '>
-        <AdvancedImage cldImg={myImage} />
+        <LazyLoadImage
+          src={myImage}
+          alt=''
+          className='rounded-lg object-cover w-full h-full'
+        />
       </div>
       <div className='basis-1/3 flex-1 '>
         <img
