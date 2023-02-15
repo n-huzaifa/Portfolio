@@ -3,57 +3,62 @@
     {
       "name": "Express JS",
       "desc": "a set of tools for building robust and scalable web applications.",
-      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
     },
     {
       "name": "MongoDB",
       "desc": "document-oriented database program that provides high scalability and performance for web apps",
-      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
     },
     {
       "name": "Node JS",
       "desc": "JavaScript runtime environment for executing JavaScript code on the server-side",
-      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
     },
     {
       "name": "React JS",
       "desc": "JavaScript library for building user interfaces, often used for developing SPAs",
-      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     },
     {
       "name": "Bootstrap",
       "desc": "CSS framework for designing responsive, mobile-first websites",
-      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
     },
     {
       "name": "MySQL",
       "desc": "relational database management system (RDBMS) used for managing data",
-      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
     },
     {
       "name": "Javascript",
       "desc": "language used for creating dynamic and interactive web pages",
-      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     },
     {
-      "name": "HTML/CSS",
+      "name": "HTML",
       "desc": "Structure and styling of the web pages",
-      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    },
+    {
+      "name": "CSS",
+      "desc": "Structure and styling of the web pages",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
     },
     {
       "name": "Tailwindcss",
       "desc": "CSS framework for building fast and responsive websites and web applications.",
-      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
     },
     {
       "name": "MUI",
       "desc": "library that provides a wide range of pre-built UI component",
-      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
     },
     {
-      "name": "Chart.js",
+      "name": "D3.js",
       "desc": "library that provides a way to create charts and graphs",
-      "url": "https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"
     }
   ],
   "testimonials": [
