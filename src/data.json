@@ -1,87 +1,75 @@
 {
   "skills": [
     {
-      "name": "Express JS",
-      "desc": "a set of tools for building robust and scalable web applications.",
-      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-    },
-    {
-      "name": "MongoDB",
-      "desc": "document-oriented database program that provides high scalability and performance for web apps",
-      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-    },
-    {
-      "name": "Node JS",
-      "desc": "JavaScript runtime environment for executing JavaScript code on the server-side",
-      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-    },
-    {
-      "name": "React JS",
-      "desc": "JavaScript library for building user interfaces, often used for developing SPAs",
-      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    },
-    {
-      "name": "Bootstrap",
-      "desc": "CSS framework for designing responsive, mobile-first websites",
-      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-    },
-    {
-      "name": "MySQL",
-      "desc": "relational database management system (RDBMS) used for managing data",
-      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    },
-    {
-      "name": "Javascript",
-      "desc": "language used for creating dynamic and interactive web pages",
-      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    },
-    {
       "name": "HTML",
-      "desc": "Structure and styling of the web pages",
       "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
     },
     {
       "name": "CSS",
-      "desc": "Structure and styling of the web pages",
       "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
     },
     {
+      "name": "Javascript",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "MongoDB",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+    },
+    {
+      "name": "Express JS",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+    },
+    {
+      "name": "React JS",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "name": "Node JS",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "name": "Bootstrap",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+    },
+    {
       "name": "Tailwindcss",
-      "desc": "CSS framework for building fast and responsive websites and web applications.",
       "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
     },
     {
+      "name": "MySQL",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    },
+    {
       "name": "MUI",
-      "desc": "library that provides a wide range of pre-built UI component",
       "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
     },
     {
       "name": "D3.js",
-      "desc": "library that provides a way to create charts and graphs",
       "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"
     }
   ],
   "testimonials": [
     {
       "id": 1,
-      "name": "Paul White",
-      "occupation": "developer",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex dignissimos repellat blanditiis exercitationem",
-      "img": "https://epteck.com/wp-content/uploads/2022/11/turner.png"
+      "name": "Cassandra Russo",
+      "occupation": "Technical Product Manager @ Nike",
+      "text": "Working with Noor was a game changer for our team. Noor brought a level of skill and expertise that elevated our work to new heights. His technical proficiency is truly impressive and his passion for the field is evident.",
+      "img": "https://res.cloudinary.com/dpb89bcny/image/upload/v1676502915/LowRes/erriko-boccia-jY5I0YhqvcA-unsplash_lufobx.jpg"
     },
     {
       "id": 2,
-      "name": "Muhammad Jibawi",
-      "occupation": "developer",
-      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "img": "https://epteck.com/wp-content/uploads/2022/11/malik.jpg"
+      "name": "Hamza Jibawi",
+      "occupation": "Senior Software Lead @ Aimm",
+      "text": "I would highly recommend Noor for any web development project. His passion for technology, attention to detail, and collaborative approach make him an ideal team player, and his technical skills are second to none.",
+      "img": "https://res.cloudinary.com/dpb89bcny/image/upload/v1676502915/LowRes/tim-van-der-kuip-CPs2X8JYmS8-unsplash_okm1fk.jpg"
     },
     {
       "id": 3,
-      "name": "Noor Huzaifa",
-      "occupation": "developer",
-      "text": " facilis suscipit voluptatibus dolorum reprehenderit beatae atque quo modi, in nobis non sint! Mollitia, sunt error. Quaerat?  facilis suscipit voluptatibus dolorum reprehenderit beatae atque quo modi, in nobis non sint! Mollitia, sunt error. Quaerat?",
-      "img": "https://epteck.com/wp-content/uploads/2022/11/turner.png"
+      "name": "John Florence",
+      "occupation": "Creative Director @ nunito",
+      "text": "The way he writes code is something else. It's like watching an artist paint a masterpiece. He also listens to feedback, takes initiative and goes the extra mile to make sure everything is perfect.",
+      "img": "https://res.cloudinary.com/dpb89bcny/image/upload/v1676502915/LowRes/ali-morshedlou-WMD64tMfc4k-unsplash_yt2gsf.jpg"
     }
   ]
 }
