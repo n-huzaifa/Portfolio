@@ -9,7 +9,7 @@ const Testimonials = () => {
   };
 
   return (
-    <>
+    <div id='Testimonials'>
       <h3 className='text-3xl py-1'>Testimonials</h3>
       <p className='text-md pt-5 leading-8 text-gray-800 dark:text-[#EEEEEE]'>
         Explore my portfolio and experience my passion for delivering creative
@@ -79,7 +79,7 @@ const Testimonials = () => {
           ))}
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

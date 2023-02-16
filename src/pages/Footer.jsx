@@ -5,7 +5,7 @@ import { SiGmail } from "react-icons/si";
 function Footer() {
   return (
     <footer
-      id='contact'
+      id='footer'
       className='text-center text-gray-900 dark:text-[#EEEEEE]'>
       <div className='container pt-5'>
         <div className='flex justify-center mb-5'>
