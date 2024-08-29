@@ -1,0 +1,75 @@
+{
+  "skills": [
+    {
+      "name": "HTML",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    },
+    {
+      "name": "CSS",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    },
+    {
+      "name": "Javascript",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "MongoDB",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+    },
+    {
+      "name": "Express JS",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+    },
+    {
+      "name": "React JS",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "name": "Node JS",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "name": "Bootstrap",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+    },
+    {
+      "name": "Tailwindcss",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    },
+    {
+      "name": "MySQL",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    },
+    {
+      "name": "MUI",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+    },
+    {
+      "name": "D3.js",
+      "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Cassandra Russo",
+      "occupation": "Technical Product Manager @ Nike",
+      "text": "Working with Noor was a game changer for our team. Noor brought a level of skill and expertise that elevated our work to new heights. His technical proficiency is truly impressive and his passion for the field is evident.",
+      "img": "https://res.cloudinary.com/dpb89bcny/image/upload/v1676502915/LowRes/erriko-boccia-jY5I0YhqvcA-unsplash_lufobx.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hamza Jibawi",
+      "occupation": "Senior Software Lead @ Aimm",
+      "text": "I would highly recommend Noor for any web development project. His passion for technology, attention to detail, and collaborative approach make him an ideal team player, and his technical skills are second to none.",
+      "img": "https://res.cloudinary.com/dpb89bcny/image/upload/v1676502915/LowRes/tim-van-der-kuip-CPs2X8JYmS8-unsplash_okm1fk.jpg"
+    },
+    {
+      "id": 3,
+      "name": "John Florence",
+      "occupation": "Creative Director @ nunito",
+      "text": "The way he writes code is something else. It's like watching an artist paint a masterpiece. He also listens to feedback, takes initiative and goes the extra mile to make sure everything is perfect.",
+      "img": "https://res.cloudinary.com/dpb89bcny/image/upload/v1676502915/LowRes/ali-morshedlou-WMD64tMfc4k-unsplash_yt2gsf.jpg"
+    }
+  ]
+}
